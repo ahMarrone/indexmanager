@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoDynamicSingleton.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/VocLeafHashStructure.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoSingleton.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoGeneric.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/indexmanager/utils/IndexConfiguration.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/TermDataHash.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/indexmanager/IndexManager.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/btree/BTree.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/indexmanager/utils/IndexFileUtils.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/parsers/SporadicVoc.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/VocLeaf.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/TermData.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoDoubleton.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/indexmanager/CLIManager.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/DynamicPosting.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoSporadicDynamic.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfo.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoDynamicDoubleton.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/RecordManager.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/VocLeafPointerStructure.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/parsers/VocParser.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoFactory.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/structures/PostingInfo/PostingInfoSporadic.java</file>
+            <file>file:/home/agustin/Documentos/IndexManager/src/helpers/VocManager.java</file>
+        </group>
+    </open-files>
+</project-private>

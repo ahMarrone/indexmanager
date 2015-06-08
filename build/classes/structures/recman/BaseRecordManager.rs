@@ -1,0 +1,1 @@
+jdbm.recman.BaseRecordManager
